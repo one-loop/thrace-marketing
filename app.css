@@ -4504,7 +4504,7 @@ p {
       width: 100%;
   }
   .brands-logo {
-      width: 10px !important;
+      /* width: 10px !important; */
       /* height: 80px; */
   }
   .wrapper.licensing {
